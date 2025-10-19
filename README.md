@@ -1,6 +1,7 @@
 # KrishnavyasGPT
 
 Interactive Streamlit application that answers questions about Krishnavyas Desugari's work, skills, and experience by running retrieval-augmented generation (RAG) over curated PDF documents.
+<img width="1000" height="795" alt="image" src="https://github.com/user-attachments/assets/4b692d1f-cff3-4b13-84dd-18f5d5257a3b" />
 
 ## Features
 - 📄 Ingests multiple PDFs (resume and extended profile) and indexes them with Chroma.
